@@ -4,10 +4,18 @@ Python/backend developer with 4+ years in production technical support (NCR Voyi
 
 - 🔧 I build support automation used daily: PowerShell remote diagnostics, configuration validation, deployment and firewall/API workflows
 - 🤖 I develop and operate an internal AI-assisted knowledge platform (Flask + RAG over a custom Aloha/NCR knowledge base) used by ~30 people every day
-- 🐧 I run a self-hosted Linux server for AI, automation and OSINT experiments
-- 📚 Currently deepening Python/backend skills: FastAPI, SQLAlchemy, data analysis
+- 🎲 I'm building a mobile app for «Bureau», a bar in Vinnytsia I co-own: games with online multiplayer, accounts and bills on Expo / React Native + Supabase, synced with Poster POS
+- 🐧 I run a self-hosted Linux server for AI and automation experiments
 
 ## Selected projects
+
+### bureau-api — Tournaments & Elo ratings
+
+A FastAPI service for the Bureau bar app: knockout and round-robin brackets with seeding by rating, per-game Elo ratings and a leaderboard. Concurrent results are applied exactly once via row locks; the test suite runs on SQLite and PostgreSQL in CI, together with Alembic migration checks and a Docker build.
+
+Python · FastAPI · SQLAlchemy 2 · Alembic · PostgreSQL · pytest · Docker · GitHub Actions
+
+[Source & docs](https://github.com/anton-yarmilko/bureau-api)
 
 ### Aloha RAG Demo — Support Knowledge Base
 

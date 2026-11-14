@@ -2,12 +2,29 @@
 
 Python/backend developer with 4+ years in production technical support (NCR Voyix Aloha POS), including one year as Team Lead in a 24/7 environment.
 
+- 🧭 I lead support teams and make them AI-first: Team Lead of a 9+ agent 24/7 shift (SLA, CSAT, training), now automating support with Claude Code and Cowork
 - 🔧 I build support automation used daily: PowerShell remote diagnostics, configuration validation, deployment and firewall/API workflows
 - 🤖 I develop and operate an internal AI-assisted knowledge platform (Flask + RAG over a custom Aloha/NCR knowledge base) used by ~30 people every day
 - 🎲 I'm building a mobile app for «Bureau», a bar in Vinnytsia I co-own: games with online multiplayer, accounts and bills on Expo / React Native + Supabase, synced with Poster POS
 - 🐧 I run a self-hosted Linux server for AI and automation experiments
 
 ## Selected projects
+
+### flight-claims-support-agent — AI first-line support for claims
+
+A Claude skill for a flight-compensation claims service with a deterministic safety layer: Python triage decides whether the AI may answer or must hand off (money, legal threats, GDPR, upset customers, weak matches), and an EU261 eligibility check gives the amount. Evals of real-style messages and 26 tests run in CI.
+
+Python · Claude skills · pytest · GitHub Actions
+
+[Source & docs](https://github.com/anton-yarmilko/flight-claims-support-agent)
+
+### one-system — Codex, Claude Code and Hermes as one team
+
+My daily multi-agent setup: a shared skill registry symlinked into every agent, a task bus, agent-to-agent delegation, cost-aware routing across quotas and free models, and an ordered review pipeline (architect → coder ↔ reviewer → tester → security).
+
+Bash · Python · Node.js · Claude Code · Codex · OpenRouter
+
+[Source](https://github.com/anton-yarmilko/one-system)
 
 ### bureau-api — Tournaments & Elo ratings
 

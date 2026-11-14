@@ -1,5 +1,7 @@
 # Hi, I'm Anton 👋
 
+📁 **Personal page:** [anton-yarmilko.github.io](https://anton-yarmilko.github.io)
+
 Python/backend developer with 4+ years in production technical support (NCR Voyix Aloha POS), including one year as Team Lead in a 24/7 environment.
 
 - 🧭 I lead support teams and make them AI-first: Team Lead of a 9+ agent 24/7 shift (SLA, CSAT, training), now automating support with Claude Code and Cowork

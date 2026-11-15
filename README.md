@@ -1,14 +1,20 @@
 # Hi, I'm Anton 👋
 
+**Customer Support Lead · AI-first support automation · Python**
+
+I lead support teams and build the automation myself.
+
 📁 **Personal page:** [anton-yarmilko.github.io](https://anton-yarmilko.github.io)
 
-Python/backend developer with 4+ years in production technical support (NCR Voyix Aloha POS), including one year as Team Lead in a 24/7 environment.
+4+ years in 24/7 technical support for US restaurant clients (NCR Voyix Aloha POS), including a full year as Team Lead of a 9+ agent shift: schedules, onboarding and training, quality review, SLA and CSAT tracking.
 
-- 🧭 I lead support teams and make them AI-first: Team Lead of a 9+ agent 24/7 shift (SLA, CSAT, training), now automating support with Claude Code and Cowork
-- 🔧 I build support automation used daily: PowerShell remote diagnostics, configuration validation, deployment and firewall/API workflows
-- 🤖 I develop and operate an internal AI-assisted knowledge platform (Flask + RAG over a custom Aloha/NCR knowledge base) used by ~30 people every day
-- 🎲 I'm building a mobile app for «Bureau», a bar in Vinnytsia I co-own: games with online multiplayer, accounts and bills on Expo / React Native + Supabase, synced with Poster POS
+- 🤖 I built and run an internal AI knowledge system (LLM + RAG over a custom Aloha/NCR knowledge base, with a feedback loop) used by ~30 colleagues every day
+- 🧭 I design AI-first support: the AI handles the repetitive questions, people handle what needs judgment, and every answer is reviewed before it ships
+- 🔧 I write PowerShell automation used in daily operations: remote diagnostics, configuration validation, deployment and firewall/API setup
+- 🎲 I build BÜRO, an iOS/Android app for a bar in Vinnytsia I co-own (React Native, Supabase, 331 tests)
 - 🐧 I run a self-hosted Linux server for AI and automation experiments
+
+8,000+ support interactions · English B2 · open to remote roles in support leadership, AI support automation and Python/backend.
 
 ## Selected projects
 
@@ -27,6 +33,14 @@ My daily multi-agent setup: a shared skill registry symlinked into every agent, 
 Bash · Python · Node.js · Claude Code · Codex · OpenRouter
 
 [Source](https://github.com/anton-yarmilko/one-system)
+
+### BÜRO — mobile app for a bar I co-own
+
+iOS, Android and web app for a bar in Vinnytsia, styled as a friendly parody of bureaucracy: board games, tournaments, darts scoring, a "find company" board and a certificate of the day. Built solo with AI coding agents: ~15,600 lines of TypeScript, 331 tests, Supabase with row-level security, Poster POS integration.
+
+Expo · React Native · TypeScript · Supabase · Playwright
+
+[Live demo](https://anton-yarmilko.github.io/buro-app/) · [Showcase](https://github.com/anton-yarmilko/buro-app)
 
 ### bureau-api — Tournaments & Elo ratings
 
@@ -56,4 +70,4 @@ An independent, non-commercial React/Vite implementation of a supplied Figma lan
 
 ## Contact
 
-📫 taboopip@gmail.com · [LinkedIn](https://www.linkedin.com/in/anton-yarmilko/)
+📫 taboopip@gmail.com · [LinkedIn](https://www.linkedin.com/in/anton-yarmilko/) · [Personal page](https://anton-yarmilko.github.io)

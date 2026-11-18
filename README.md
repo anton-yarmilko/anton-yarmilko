@@ -6,12 +6,12 @@ I lead support teams and build the automation myself.
 
 📁 **Personal page:** [anton-yarmilko.github.io](https://anton-yarmilko.github.io)
 
-4+ years in 24/7 technical support for US restaurant clients (NCR Voyix Aloha POS), including a full year as Team Lead of a 9+ agent shift: schedules, onboarding and training, quality review, SLA and CSAT tracking.
+4+ years in 24/7 technical support for restaurant clients, including a full year as Team Lead of a 9+ agent shift: schedules, onboarding and training, quality review, SLA and CSAT tracking.
 
-- 🤖 I built and run an internal AI knowledge system (LLM + RAG over a custom Aloha/NCR knowledge base, with a feedback loop) used by ~30 colleagues every day
+- 🤖 I built and run an internal AI knowledge system (LLM + RAG over a custom POS knowledge base, with a feedback loop) used by ~30 colleagues every day
 - 🧭 I design AI-first support: the AI handles the repetitive questions, people handle what needs judgment, and every answer is reviewed before it ships
 - 🔧 I write PowerShell automation used in daily operations: remote diagnostics, configuration validation, deployment and firewall/API setup
-- 🎲 I build BÜRO, an iOS/Android app for a bar in Vinnytsia I co-own (React Native, Supabase, 331 tests)
+- 🎲 I build BÜRO, an iOS/Android app for a bar (React Native, Supabase, 331 tests)
 - 🐧 I run a self-hosted Linux server for AI and automation experiments
 
 8,000+ support interactions · English B2 · open to remote roles in support leadership, AI support automation and Python/backend.
@@ -34,9 +34,9 @@ Bash · Python · Node.js · Claude Code · Codex · OpenRouter
 
 [Source](https://github.com/anton-yarmilko/one-system)
 
-### BÜRO — mobile app for a bar I co-own
+### BÜRO — mobile app for a bar
 
-iOS, Android and web app for a bar in Vinnytsia, styled as a friendly parody of bureaucracy: board games, tournaments, darts scoring, a "find company" board and a certificate of the day. Built solo with AI coding agents: ~15,600 lines of TypeScript, 331 tests, Supabase with row-level security, Poster POS integration.
+iOS, Android and web app for a bar, styled as a friendly parody of bureaucracy: board games, tournaments, darts scoring, a "find company" board and a certificate of the day. Built solo with AI coding agents: ~15,600 lines of TypeScript, 331 tests, Supabase with row-level security, Poster POS integration.
 
 Expo · React Native · TypeScript · Supabase · Playwright
 
@@ -70,4 +70,4 @@ An independent, non-commercial React/Vite implementation of a supplied Figma lan
 
 ## Contact
 
-📫 taboopip@gmail.com · [LinkedIn](https://www.linkedin.com/in/anton-yarmilko/) · [Personal page](https://anton-yarmilko.github.io)
+📫 [Personal page](https://anton-yarmilko.github.io)
